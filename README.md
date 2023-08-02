@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonel VA</h1>
+<h1 align="center">Hi 👋, I'm Leo from BX</h1>
 <h3 align="center">Computer Scientist | Full-Stack Developer | Software Architect | Project Consultancy | Entrepreneurship & Innovation | Creative solutions to common problems 👾</h3>
 
 - 👨‍💻 Im working in a few ideas to change the world! or that I think so!
